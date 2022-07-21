@@ -1,2 +1,0 @@
-# Roles in Rocket.Chat
-
